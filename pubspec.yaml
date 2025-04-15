@@ -30,6 +30,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.1.1
+  http: ^1.3.0                  # ✅ Upgrade http to match google_fonts
+  fl_chart: ^0.64.0
+  flutter_launcher_icons: ^0.13.1
+  google_fonts: ^6.1.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
